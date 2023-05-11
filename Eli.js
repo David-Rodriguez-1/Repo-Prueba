@@ -1,6 +1,6 @@
 
-function Eli() {
-    console.log("hola me llamo Eli")
+function Eli(n) {
+    console.log("hola me llamo  "+n)
 }
 
-Eli();
+Eli("asasas");
